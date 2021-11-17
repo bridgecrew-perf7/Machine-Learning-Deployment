@@ -1,2 +1,2 @@
 # Machine-Learning-Deployment
-This repository multiple technologies used in deploying a machine learning model.
+This repository contains ways of using multiple technologies in deploying a machine learning model.
