@@ -2,3 +2,4 @@ streamlit==1.8.0
 torch==1.10.2
 transformers==2.5.1
 wikipedia==1.4.0
+click==8.0.4
